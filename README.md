@@ -15,4 +15,3 @@ nando o botão de verdadeiro ou falso, acumula
 <p alingn='center'> 
    <img    src="./src/assets/circuito do jogo.png"/>
 </p>
-
