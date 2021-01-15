@@ -8,7 +8,16 @@ Ministrada pelo professor: Bruno Miranda
 ## SOBRE O JOGO
 Jogo de matemática básica cujo o objetivo é o jogador tem que responder as equações que aparecer no display pressionando o botão de verdadeiro ou falso,
 acumulando o maior número de acertos.
-nando o botão de verdadeiro ou falso, acumula
+
+
+## utilizados
+1 Arduíno uno
+2 Botões
+1 Jisplay lcd 16x2
+1 Protoboard
+X Jumpers
+
+
 
 ## CIRCUITO DO JOGO
 
