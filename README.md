@@ -1,7 +1,7 @@
 # Jogo da Eletiva de Automação
 Conteúdo da disciplina Eletiva: Automação com Diversão     
-Objetivo: Compreender o funcionamento de um sistema de automação e ser capaz de estruturar projetos utilizando um Arduíno.
-Durante o decorrer do semestre foi abordado: lógica de programação, linguagem C, plataforma de prototipagem Arduíno, sensores, etc.
+Objetivo: Compreender o funcionamento de um sistema de automação e ser capaz de estruturar projetos utilizando   um Arduíno.
+Durante o decorrer do semestre foi abordado: lógica de programação, linguagem C, plataforma de prototipagem    Arduíno, sensores, etc.
 Ministrada pelo professor: Bruno Miranda
  
 
