@@ -10,11 +10,15 @@ Jogo de matemática básica cujo o objetivo é o jogador tem que res
 acumulando o maior número de acertos.
 
 
-## utilizados
+## COMPONENTES UTILIZADOS
 1 Arduíno uno
+
 2 Botões
+
 1 Jisplay lcd 16x2
+
 1 Protoboard
+
 X Jumpers
 
 
