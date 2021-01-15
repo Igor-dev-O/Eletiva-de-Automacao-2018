@@ -15,7 +15,7 @@ acumulando o maior número de acertos.
 
 2 Botões
 
-1 Jisplay lcd 16x2
+1 Display lcd 16x2
 
 1 Protoboard
 
